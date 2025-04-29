@@ -1,41 +1,56 @@
-# 📚 Análise Crítica — Aplicação do Scrum no Case Sony
+# 📁 Atividades Práticas sobre SCRUM
 
-Este repositório contém uma análise crítica sobre a aplicação do framework ágil **Scrum** no projeto de desenvolvimento de software da **Sony**, baseado na história de sucesso publicada pela consultoria **agile42**.
-
-## ✍️ Sobre o Projeto
-
-O objetivo da análise é investigar a adoção do Scrum pela Sony, entender os motivos que levaram à escolha da abordagem ágil em vez da tradicional, avaliar os resultados obtidos, refletir sobre possíveis melhorias no processo e destacar lições aprendidas.
-
-## 📝 Estrutura do Conteúdo
-
-- **Introdução**: Contextualização do Scrum e apresentação do objetivo da análise.
-- **Resumo do Case**: Descrição do projeto e dos desafios enfrentados pela Sony.
-- **Análise Crítica**: Respostas às questões-chave relacionadas ao uso do Scrum.
-- **Conclusão**: Reflexões finais sobre os resultados e aprendizados.
-- **Referências**: Fontes utilizadas para embasar a análise.
-
-## 📌 Principais Questões Respondidas
-
-- Por que a abordagem ágil foi utilizada e não a tradicional?
-- Por que o Scrum foi utilizado?
-- O resultado final foi inovador? Por quê?
-- O que poderia ser feito de maneira diferente?
-- Tópicos adicionais relevantes sobre a implementação.
-
-## 🔗 Referências
-
-- [Sony Success Story - agile42](https://www.agile42.com/en/success-stories/success-story-sony)
-- [Analisando case de sucesso - DIO](https://www.dio.me/articles/analisando-case-de-sucesso-framework-scrum)
-
-## 🛠️ Tecnologias Utilizadas
-
-- Markdown (.md)
-- GitHub para versionamento e publicação
-
-## 📄 Licença
-
-Este repositório é de uso educacional e segue a licença [MIT License](LICENSE), se desejar aplicar uma.
+Este repositório reúne as atividades desenvolvidas durante os estudos e práticas sobre o framework ágil **Scrum** na plataforma DIO. O objetivo é consolidar o conhecimento por meio de aplicações reais, reflexões críticas e simulações de ferramentas utilizadas no contexto ágil.
 
 ---
 
-> Desenvolvido para fins acadêmicos e de prática em metodologias ágeis.
+## 📌 Conteúdo do Repositório
+
+### 📄 1. Análise Crítica — Case Sony
+Análise detalhada sobre a aplicação do Scrum no projeto de desenvolvimento de software da **Sony**, com base no relato oficial da consultoria **agile42**.  
+Inclui:
+- Resumo do case
+- Reflexões sobre a escolha da abordagem ágil
+- Avaliação de resultados
+- Lições aprendidas e sugestões de melhoria
+
+### 🧩 2. Preenchimento de Board Scrum
+Atividade prática de preenchimento de um **Quadro Scrum (Board)** com preenchimento de quadros como:
+- Pilares e valores do Scrum
+- Cards sobre o Scrum Team, Eventos e Artefatos do Scrum
+- Preenchimento das etapas e timebox de cada evento do Scrum
+
+O objetivo foi compreender na prática como funciona o fluxo de trabalho dentro de um ciclo Scrum.
+
+---
+
+## 🎯 Objetivo do Repositório
+
+Consolidar o aprendizado teórico e prático sobre o **Scrum**, por meio de atividades que envolvam análise crítica, simulações e aplicações em cenários reais ou hipotéticos. Este material pode ser útil tanto para revisão pessoal quanto como portfólio acadêmico/profissional.
+
+---
+
+## 🛠️ Tecnologias / Ferramentas Utilizadas
+
+- Markdown (.md)
+- GitHub para versionamento
+- Miro (simulação de board — se aplicável)
+- Referências bibliográficas e fontes confiáveis
+
+---
+
+## 📚 Referências
+
+- [Sony Success Story - agile42](https://www.agile42.com/en/success-stories/success-story-sony)
+- [DIO - Artigo: Analisando case de sucesso com Scrum](https://www.dio.me/articles/analisando-case-de-sucesso-framework-scrum)
+- [Scrum Guide (scrum.org)](https://scrumguides.org/)
+
+---
+
+## 📄 Licença
+
+Este repositório tem fins educacionais. Caso queira aplicar uma licença, recomendamos a [MIT License](LICENSE).
+
+---
+
+> Desenvolvido como parte do processo de aprendizado sobre metodologias ágeis e o framework Scrum.
