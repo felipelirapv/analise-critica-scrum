@@ -17,7 +17,7 @@ Inclui:
 ### 🧩 2. Preenchimento de Board Scrum
 Atividade prática de preenchimento de um **Quadro Scrum (Board)** com preenchimento de quadros como:
 - Pilares e valores do Scrum
-- Cards sobre o Scrum Team, Eventos e Artefatos do Scrum
+- Cards sobre o Scrum Team, eventos e artefatos do Scrum
 - Preenchimento das etapas e timebox de cada evento do Scrum
 
 O objetivo foi compreender na prática como funciona o fluxo de trabalho dentro de um ciclo Scrum.
