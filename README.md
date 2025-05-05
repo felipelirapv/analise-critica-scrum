@@ -34,7 +34,7 @@ Consolidar o aprendizado teórico e prático sobre o **Scrum**, por meio de ativ
 
 - Markdown (.md)
 - GitHub para versionamento
-- Miro (simulação de board — se aplicável)
+- Miro (simulação de board)
 - Referências bibliográficas e fontes confiáveis
 
 ---
